@@ -1,0 +1,125 @@
+body {
+	color: #ddd;
+	background-color:rgb(26, 25, 25);
+}
+
+::-moz-selection {
+    background: #666;
+    text-shadow: none
+}
+
+::selection {
+    background: #666;
+    text-shadow: none
+}
+
+hr {
+    border-color: #333;
+}
+
+blockquote {
+	border-color: #ddd;
+}
+
+h1,h2,h3,h4,h5,h6 {
+	color: #ddd;
+}
+
+a {
+	color: rgba(255, 255, 255, 0.863);
+	text-decoration: none;
+	
+}
+
+a:hover {
+	color: rgb(255, 255, 255);
+	opacity: 1;
+	text-decoration: none;
+}
+a {
+	font-family: sans-serif;
+	text-decoration: none;
+
+	position: relative;
+
+  }
+  
+   a::after {
+	content: "";
+	background: rgb(255, 255, 255);
+	height: 1px;
+	position: absolute;
+	bottom: 0;
+	transition: .16s all 0.025s;
+  }
+  
+   a::after {
+	left: 50%;
+	right: 50%;
+  }
+  
+   a:hover ~ a::after {
+	left: 0;
+	right: 100%;
+  }
+  
+   a:hover::after {
+	left: 0;
+	right: 0;
+  }
+ 
+
+
+
+
+
+.site-description a,
+.site-description a:hover {
+	color: #ddd;
+
+}
+
+
+.post-tags .tags a {
+    border: 1px solid #ddd;
+	color: #ddd;
+}
+
+.site-title a {
+	color: #ddd;
+	text-decoration: none !important;
+
+}
+
+.site-title a:hover {
+
+	background: -webkit-linear-gradient(rgb(95, 71, 89), rgb(90, 92, 117));
+	-webkit-background-clip: text;
+	-webkit-text-fill-color: transparent;
+	transition: linear .3s;
+	
+}
+
+
+
+.header nav,
+.footer {
+	border-color: #333;
+}
+
+.highlight {
+	background-color: #333;
+}
+
+table th {
+	background-color: #333;
+}
+
+table th, table td {
+    padding: 10px 20px;
+    border: 1px solid #666;
+}
+
+pre code {
+  display: inline-block
+}
