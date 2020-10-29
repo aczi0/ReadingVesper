@@ -1,4 +1,4 @@
-baseURL = "http://readingvesper.com/"
+baseURL = "https://readingvesper.com/"
 languageCode = "en-us"
 title = "READING VESPER"
 theme = "ezhil"
