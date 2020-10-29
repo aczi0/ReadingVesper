@@ -6,11 +6,11 @@
 		{{ partial "head.html" . }}
 
 		<div class="post-header">
-			<h2 class="title" style="text-align: center;">{{ .Title }}</h2>
-			<div class="meta" style="text-align: center; font-size:large">Posted on &mdash; {{ dateFormat "Jan 2, 2006" .Date }}{{ if .Draft }} <span class="draft-label">DRAFT</span> {{ end }}</div>
+			<h1 class="title" style="text-align: center;">{{ .Title }}</h1>
+			<div class="meta" style="text-align: center; font-size:medium; font-weight:lighter;">{{ dateFormat "Jan 2, 2006" .Date }} | Reading time: {{.ReadingTime}} minutes | {{.WordCount}} words {{ if .Draft }} <span class="draft-label">DRAFT</span> {{ end }}</div>
 		</div>
-
-		<div class="markdown">
+<div class="meta" style="text-align:center; color:darkorange;">______</div>
+		<div class="markdown" style="font-weight: lighter;">
 			{{ .Content }}
 		</div>
 
