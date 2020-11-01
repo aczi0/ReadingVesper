@@ -2,8 +2,10 @@
 title: "Information Pool"
 date: 2020-08-25T14:02:52-04:00
 draft: true
-categories:
-- Test
+tags:
+    - Knowledge, information
+keywords:
+    - Knowledge, information
 ---
 
 In order to stay up to date with anything, you need some diverse, reliable information sources that are readily accessible to you. I have come across a diverse array of "information pooling" platforms and I now wish to share with you the one that I've found to be most useful. (This page was not sponsored by any companies listed below, and I am not receiving any incentive to publish this article.)

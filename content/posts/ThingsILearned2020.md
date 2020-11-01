@@ -2,6 +2,7 @@
 title: "Things I learned in 2020"
 date: 2020-09-20T08:22:53-04:00
 draft: false
+
 ---
 
 Here's a collection of interesting things I learned in 2020:

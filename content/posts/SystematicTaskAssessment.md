@@ -2,12 +2,19 @@
 title: "Systematic Task Assessment"
 date: 2020-09-20T08:10:46-04:00
 draft: false
+tags:
+    - research, hard problems, scope, PhD
+categories:
+- research
+keywords:
+    - research, hard problems, scope, PhD
 ---
 
 This is a short guide on how to approach a problem with no known solution from a PhD angle. I wanted to keep it here as reference. It was posted on reddit by user /TillWinter on /r/MachineLearning.
 
 
-- Define the state of knowledge, tools, understanding you already have. Like a table with grades, a simple list what every you feel comfortable. Make it as clear and simple.
+- Define the state of knowledge, tools, understanding you already have. Like a table with grades, a simple list what every you feel comfortable. Make it as clear and simple.  
+
 - Define your goals; what is it, you want to have understood. PhD means to walk the border of the unknown, so what are the questions you have that needs to be answered
 - Put this 2 pieces of paper in front of you, with a third one in between. Your job now is to find the "shortest path for the accomplishment of your task". Meaning using the a high abstraction, what is needed to solve your question.
 - In most cases you cant find a simple path just on the first try. If so you are, as we say, "drilling a thin board". I mostly start with the "solution side", so what is the step to be taken before you reach your goal (also try to define it abstract). And than the next and so on. Try to put a "node" to each side (start point and goal) till you let them meet. This is now your shortest path.
