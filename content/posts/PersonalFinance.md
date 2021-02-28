@@ -9,7 +9,7 @@ keywords:
 - personal finance
 
 ---
-Simple guidelines on personal finance that I follow. test
+Simple guidelines on personal finance that I follow.
 
 ## Finance Overview
 
