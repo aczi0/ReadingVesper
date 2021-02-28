@@ -16,11 +16,28 @@ I try to manage my finances like I would run a company, with a lot of actionable
 
 I follow a few guidelines regarding my financial planning. 
 
-Savings: the couch potato model, the 4% rule
+Savings: HISA (Ratehub)
 
-Investing: On the lookout for castles in the sky
+Investing: the couch potato model, the 4% rule, On the lookout for castles in the sky (Questrade)
+
+Thoughts on: 
+
+* Day trading
+* Fundamental investing
+* Behavioral investing
 
 Expenses & Income: Frugality
+
+Tools used:
+
+* Questrade
+* Coinbase
+* Reporting: Excel
+
+Ressources:
+
+* Yahoo finances
+* MorningStar Reports
 
 Every month I compile my income, expenses and investments.  I build a budget for the whole year which I review every 6 months. I categorize my expenses (not in great detail, but enough to have an idea of where my money goes ex: rent, gas, insurance groceries...). I then match this to my budget to see how I'm doing. This lets me see how much money I can afford to save/spend in the future as I 'allocate' future earned money to my budgeted expenses. Along with my savings and investments, I can compile it all to track my net worth and build scenarios such as 'how long will it take for me to save for X', 'what would be the impact of Y if I make X less during these months due to Z expenses' and such. It also lets me know how much I can afford to invest more on a monthly basis.
 
