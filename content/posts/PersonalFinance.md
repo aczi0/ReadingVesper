@@ -13,23 +13,25 @@ Simple guidelines on personal finance that I follow.
 
 ## Finance Overview
 
-Excel is your friend! I budget my finances once a year and review it every month in case something comes up. I categorize my expenses (not in great detail, but enough to have an idea of where my money goes ex: rent, gas, insurance groceries...). I then match this to my budget to see how I'm doing. This lets me see how much money I can afford to save/spend in the future as I 'allocate' future earned money to my budgeted expenses. Along with my savings and investments, I can compile it all to track my net worth and build scenarios such as 'how long will it take for me to save for XYZ', 'what would be the impact of Y if I make X less during these months due to Z expenses' and such. It also lets me know how much I can afford to invest more on a monthly basis.
+I try to manage my finances like I would run a company, with a lot of actionable data. Every month I compile my income, expenses and investments.  I build a budget for the whole year which I review every 6 months. I categorize my expenses (not in great detail, but enough to have an idea of where my money goes ex: rent, gas, insurance groceries...). I then match this to my budget to see how I'm doing. This lets me see how much money I can afford to save/spend in the future as I 'allocate' future earned money to my budgeted expenses. Along with my savings and investments, I can compile it all to track my net worth and build scenarios such as 'how long will it take for me to save for X', 'what would be the impact of Y if I make X less during these months due to Z expenses' and such. It also lets me know how much I can afford to invest more on a monthly basis. 
+
+Some actionable metrics that I follow are:
+
+* Net Savings Magin (%): Let's me know the % of my income that goes into savings.
+* FIRE %: Let's me know my progress towards financial independence (more on that below)
+* Income and Expense budget variance (avg% and total%): Let's me know on average how far in or out I am of my budgets, and on a global level (12 months)
 
 ## Control
 
-You have some control over your income and expenses. My goal is to maximize my income based on my professional goals, and minimize expenses by living frugally, on a 'want or need' basis. When the market is going down, I try to see which company has strong fundamentals and is just going through a rough patch and invest in it, then sell when things go back to normal. I normally don't put in a lot but since 2018 I was able to make an extra 20-50% return, which includes a 5% loss on some of those investments.
+You have some control over your income and expenses. My goal is to maximize my income based on my professional goals, and minimize expenses by living frugally; on a 'want or need' basis. Live frugally, as in ask yourself if what you are purchasing is a _need_ or a _want_. Really ask yourself this and be honest, it's fine to want things, just be conscious of the ratio of want/need things you buy, and balance it out.
 
 ## Visibility
 
-Before trying to take decisions on how to manage your expenses and budget, you need visibility. A simple spreadsheet helps, don't spend money on products that can do the same. Having simple metrics to provide a quick glance at the health of your finances is also a good idea. Such metrics can be 'Month to date expenses', 'Year to date expenses', 'Savings Margin'. I can also visually see how my expenses are split, and how my investments are doing.
+Before trying to take decisions on how to manage your expenses and budget, you need visibility. A simple spreadsheet helps, don't spend money on products that can do the same until your situation becomes too complex and time consuming (and at that point you might want to hire a professional). 
 
 ## Debt
 
 Pay off your debt regularly and as a priority. And don't spend money you don't have for things you don't need! (Sound simple, but without knowing how much you have and spend, this can be a steep well to get out from)
-
-## Want vs Need
-
-Live frugally, as in ask yourself if what you are purchasing is a _need_ or a _want_. Really ask yourself this and be honest, it's fine to want things, just be conscious of the ratio of want/need things you buy, and balance it.
 
 ## Credit
 
@@ -37,7 +39,7 @@ For credit cards, I use one that returns x% per year, with the lowest fees. Only
 
 ## Savings
 
-For savings, I use the highest HISA available in my province. Shop around, it's definetly worth it.
+For savings, I use the highest HISA available in my province. Shop around, it's definetly worth it. (Ratehub)\[www.ratehub.ca\] has a list of Canadian banking services with all their returns and fees.
 
 ## Investing
 
