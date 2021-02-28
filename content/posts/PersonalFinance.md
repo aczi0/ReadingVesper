@@ -26,9 +26,11 @@ All data entry is still either manual or a copy & paste of .csv statements from 
 
 Now, if we go one step further, I will detail the strategies used that guide my methods.
 
-Income
+### Income
 
  
+
+### Expenses
 
 ### Savings
 
