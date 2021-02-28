@@ -12,16 +12,11 @@ draft: true
 ---
 ## Lazy Finances
 
-In any decision making process, there are a few critical steps necessary to take before taking action.
+In any decision making process, there are a few critical steps necessary to take before taking action: figuring out the objective, the constraints, what information is needed and what information is available.
 
-* Figure out the objective
-* Figuring out the constraints
-* Figure out what information is needed
-* Figuring out what information is available and not
+So before I started investing my money in the market, I wanted to have clear visibility on my financial health in this manner.
 
-Before I started to invest my money in the market, I wanted to have clear visibility on my CASH FLOW, my recurring (hence predictable) expenses and income to then then build a budget accordingly based on my goals.
-
-I try to manage my finances like I would run a company, with as much data as I can gather.  I use an Excel tool that combines all of my income, expenses, budgets and investments. The file is updated once a month and it automatically gives me a glimpse (and an in depth view) of my finances. The trick is to maintain a category of the income and expense types so you can then do monthly grouping and compare it to your budget bucket. 
+I use an Excel tool that combines all of my income, expenses, budgets and investments. The file is updated once a month and it automatically gives me a glimpse (and an in depth view) of my finances. The trick is to maintain a category of the income and expense types so you can then do monthly grouping and compare it to your budget bucket. 
 
 This lets me see how much money I can afford to save/spend in the future as I 'allocate' future earned money to my budgeted expenses. Along with my savings and investments, I can compile it all to track my net worth and build scenarios such as 'how long will it take for me to save for X', 'what would be the impact of Y if I make X less during these months due to Z expenses' and such. It also lets me know how much I can afford to invest more on a monthly basis.
 
@@ -41,7 +36,11 @@ You have some control over your income and expenses. My goal is to balance my in
 
 ### Savings
 
-HISA (Ratehub)
+Most banks in my province offer very similar rates (around 0.5% - 0.1%). I found a website called [Ratehub](www.ratehub.ca) that compiles a list of Canadian banking services with all their rates and fees. With this, I found out that a bank has a special online HISA with a rate of 1.5%!
+
+### Investing
+
+I believe in the philosophy shared by the [canadian couch potato](www.canadiancouchpotato.com). It's the simplest way to ensure a wealthy future with minimal effort. In short, this strategy aims to invest frequently in the **total world market**, for a very long time, and never try to **time the market,** to harness the power of **compounding interests**. 
 
 Investing: the couch potato model, the 4% rule, On the lookout for castles in the sky (Questrade)
 
@@ -73,8 +72,6 @@ Pay off your debt regularly and as a priority. And don't spend money you don't h
 For credit cards, I use one that returns x% per year, with the lowest fees. Only use it if I have money to pay it back. Take advantage of everything your credit card provides, you are paying for those after all.
 
 ## Savings
-
-For savings, I use the highest HISA available in my province. Shop around, it's definetly worth it. [Ratehub](www.ratehub.ca) has a list of Canadian banking services with all their returns and fees.
 
 ## Investing
 
