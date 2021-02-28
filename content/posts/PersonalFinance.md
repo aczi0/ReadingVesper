@@ -12,11 +12,27 @@ draft: true
 ---
 ## Lazy Finances
 
-I try to manage my finances like I would run a company, with a lot of actionable data. 
+I try to manage my finances like I would run a company, with as much data as I can gather.  I use an Excel tool that combines all of my income, expenses, budgets and investments. The file is updated once a month and it automatically gives me a glimpse (and an in depth view) of my finances. The trick is to maintain a category of the income and expense types so you can then do monthly grouping and compare it to your budget bucket. 
 
-I follow a few guidelines regarding my financial planning. 
+This lets me see how much money I can afford to save/spend in the future as I 'allocate' future earned money to my budgeted expenses. Along with my savings and investments, I can compile it all to track my net worth and build scenarios such as 'how long will it take for me to save for X', 'what would be the impact of Y if I make X less during these months due to Z expenses' and such. It also lets me know how much I can afford to invest more on a monthly basis.
 
-Savings: HISA (Ratehub)
+Some actionable metrics that I follow are:
+
+* Net Savings Magin (%): Let's me know the % of my income that goes into savings.
+* FIRE %: Let's me know my progress towards financial independence (more on that below)
+* Income and Expense budget variance (avg% and total%): Let's me know on average how far in or out I am of my budgets, and on a global level (12 months)
+
+All data entry is still either manual or a copy & paste of .csv statements from my bank, since I didn't find a way to automate the extraction from my bank.
+
+Now, if we go one step further, I will detail the strategies used that guide my methods.
+
+Income
+
+ 
+
+### Savings
+
+HISA (Ratehub)
 
 Investing: the couch potato model, the 4% rule, On the lookout for castles in the sky (Questrade)
 
@@ -38,14 +54,6 @@ Ressources:
 
 * Yahoo finances
 * MorningStar Reports
-
-Every month I compile my income, expenses and investments.  I build a budget for the whole year which I review every 6 months. I categorize my expenses (not in great detail, but enough to have an idea of where my money goes ex: rent, gas, insurance groceries...). I then match this to my budget to see how I'm doing. This lets me see how much money I can afford to save/spend in the future as I 'allocate' future earned money to my budgeted expenses. Along with my savings and investments, I can compile it all to track my net worth and build scenarios such as 'how long will it take for me to save for X', 'what would be the impact of Y if I make X less during these months due to Z expenses' and such. It also lets me know how much I can afford to invest more on a monthly basis.
-
-Some actionable metrics that I follow are:
-
-* Net Savings Magin (%): Let's me know the % of my income that goes into savings.
-* FIRE %: Let's me know my progress towards financial independence (more on that below)
-* Income and Expense budget variance (avg% and total%): Let's me know on average how far in or out I am of my budgets, and on a global level (12 months)
 
 ## Control
 
