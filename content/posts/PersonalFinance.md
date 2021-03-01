@@ -62,13 +62,17 @@ What would you do if your living expenses were paid and you could then afford to
 
 There are many other strategies to investing, and I will (and can't) go in depth into each and every one of them, but the book "Random Walk on Wall Street" does a great job at it. 
 
-In short, day trading refers to trading using technical indicators and graphs (candle charts, volume, and other statistical metrics). It serves a promise that you can 'model' a specific stock and can use past data and metrics to 'predict' it's movement and act accordingly. I picked up a few things about day trading and for me these are enough to convince me not to use this trategy:
+In short, day trading refers to trading using technical indicators and graphs (candle charts, volume, and other statistical metrics). It serves a promise that you can 'model' a specific stock and can use past data and metrics to 'predict' it's movement and act accordingly. I picked up a few things about day trading and for me these are enough to convince me not to use this strategy:
 
-* 
+* There is a flood of people on social media pushing their courses and tell you to BUY LOW and SELL HIGH and REPEAT!! I have one thing to say to this:
 
 > You make more money selling advice that following it
 >
 > _- Steve Forbes_
+
+* There is (also) a flood of automatic programs that use heavily sophisticated algorithms to buy and sell at rates that far exceed what humans can comprehend (micro seconds transactions) so by the time you decide to execute an order, 1,000 bots made a move against each other and made the ticker move in a direction that you haven't notice and would technically probably change your strategy if you had, but you couldn't. A very futile game.
+* If you think you can predict a stock price movement, you must have learned about stochastic processes and hidden markov chains, right? 
+* You are up against hedge funds that are specializing in doing high frequency trading bots that far exceed the power and reach of the bots spoken on point 2 that are build by amateur retail investors. 
 
 Investing: the couch potato model, the 4% rule, On the lookout for castles in the sky (Questrade)
 
