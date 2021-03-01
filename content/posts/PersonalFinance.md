@@ -16,7 +16,7 @@ In any decision making process, there are a few critical steps necessary to take
 
 So before I started investing my money in the market, I wanted to have clear visibility on my financial health in this manner.
 
-I use an Excel tool that combines all of my income, expenses, budgets and investments. The file is updated once a month and it automatically gives me a glimpse (and an in depth view) of my finances. The trick is to maintain a category of the income and expense types so you can then do monthly grouping and compare it to your budget bucket. 
+I use an Excel tool that combines all of my income, expenses, budgets and investments. The file is updated once a month and it automatically gives me a glimpse (and an in depth view) of my finances. The trick is to maintain a category of the income and expense types so you can then do monthly grouping and compare it to your budget bucket.
 
 This lets me see how much money I can afford to save/spend in the future as I 'allocate' future earned money to my budgeted expenses. Along with my savings and investments, I can compile it all to track my net worth and build scenarios such as 'how long will it take for me to save for X', 'what would be the impact of Y if I make X less during these months due to Z expenses' and such. It also lets me know how much I can afford to invest more on a monthly basis.
 
@@ -40,13 +40,13 @@ Most banks in my province offer very similar rates (around 0.5% - 0.1%). I found
 
 ### Investing
 
-The philosophy I follow is simple and straight forward. In all my research and knowledge of finance (which is limited to the equivalent of an undergraduate level of the matter), nothing beats **time in the market.** The most efficient way I found to grow my wealth over my lifetime with minimal effort is to follow the [canadian couch potato](www.canadiancouchpotato.com) model. I highly recommend anyone reading this to take a look. In short, the strategy aims to invest frequently in the **total world market**, for a very long time, to harness the power of **compounding interests**, and never try to **time the market.** 
+The philosophy I follow is simple and straight forward. In all my research and knowledge of finance (which is limited to the equivalent of an undergraduate level of the matter), nothing beats **time in the market.** The most efficient way I found to grow my wealth over my lifetime with minimal effort is to follow the [canadian couch potato](www.canadiancouchpotato.com) model. I highly recommend anyone reading this to take a look. In short, the strategy aims to invest frequently in the **total world market**, for a very long time, to harness the power of **compounding interests**, and never try to **time the market.**
 
 How do you invest in the total world market, you may ask? First off, you need to have access to a trading platform. Many exist, and in Canada two popular ones are Questrade and Wealthsimple. I choose Questrade as when I started Wealthsimple had a different structure and I am still very satisfied with their services and fees, but both are very similar. Then, you want to setup a TFSA account and figure out how much contribution room you have. Once you have these, you will want to learn about Exchange Traded Funds (ETF). You can think of those securities as a basket of stocks. You like tech companies? There's an ETF for that. You want to follow the clean energy wave? There's an ETF for that. Hell, there's even an ETF that follows Work From Home (it's ticket is WFH) basket of companies! So you guessed it, if you want to invest in the total world market, it would be very inefficient to invest in every stock in every country, so you would be better off buying an ETF that does this for you. But which one?
 
 In Canada, we have two main financial companies that offer these types of products. Banks like BMO and Desjardins also do, but most of their fees are xx% times higher than what Blackrock and Vanguard offer, for very similar products.
 
-Before going into the actual ETFs, there s something important to understand. Stocks and bonds allocation. Stocks are shares of a company, and are known to be risky, and can then provide great returns. Bonds on the contrary, are like loans to a company or government, that provide more stable, but lower returns. ETFs can be comprised of both of these. So depending on your risk tolerance (you can test yourself here), you could be better off with an ETF that has 80% stocks (equity) and 20% bonds (fixed income). 
+Before going into the actual ETFs, there s something important to understand. Stocks and bonds allocation. Stocks are shares of a company, and are known to be risky, and can then provide great returns. Bonds on the contrary, are like loans to a company or government, that provide more stable, but lower returns. ETFs can be comprised of both of these. So depending on your risk tolerance (you can test yourself here), you could be better off with an ETF that has 80% stocks (equity) and 20% bonds (fixed income).
 
 Now back to Vanguard and Blackrock. In order to invest in the total world market, there are a few securities (financial products) available for you to look into. If you are a young professional, you then have time to recover from market downs. So an ETF such as XEQT or VEQT would be favorable to you, giving you more growth potential (100% stocks 0% bonds). At around 40 years old, something like XGRO or VGRO (80% stocks 20% bonds) will give you more stable returns than the previous ETFs.
 
@@ -54,13 +54,25 @@ Why total market? Because on average, you will get an annual return of 10%, whic
 
 ### The 4% rule
 
-How do you figure out how much money to save for an early retirement? The 4% rule is a simple way to calculate this. Take your yearly expenses and add a buffer of 20% to it. Then figure out the amount needed which 4% of it will generate passive returns that will equate your yearly expenses. Because in the end, as your asset allocation (the ratio of stocks and bonds in your portfolio) will tip on the bonds side (to provide safer, lower returns) and they normally provide a steady 4-6% return that you can then withdraw, which will cover your expenses! 
+How do you figure out how much money to save for an early retirement? The 4% rule is a simple way to calculate this. Take your yearly expenses and add a buffer of 20% to it. Then figure out the amount needed which 4% of it will generate passive returns that will equate your yearly expenses. Because in the end, as your asset allocation (the ratio of stocks and bonds in your portfolio) will tip on the bonds side (to provide safer, lower returns) and they normally provide a steady 4-6% return that you can then withdraw, which will cover your expenses!
 
 What would you do if your living expenses were paid and you could then afford to stop working for money and attend to your passions? This is the 4% rule.
 
+### Insights on day trading, fundamentals and behavioral finance
+
+There are many other strategies to investing, and I will (and can't) go in depth into each and every one of them, but the book "Random Walk on Wall Street" does a great job at it. 
+
+In short, day trading refers to trading using technical indicators and graphs (candle charts, volume, and other statistical metrics). It serves a promise that you can 'model' a specific stock and can use past data and metrics to 'predict' it's movement and act accordingly. I picked up a few things about day trading and for me these are enough to convince me not to use this trategy:
+
+* 
+
+> You make more money selling advice that following it
+>
+> _- Steve Forbes_
+
 Investing: the couch potato model, the 4% rule, On the lookout for castles in the sky (Questrade)
 
-Thoughts on: 
+Thoughts on:
 
 * Day trading
 * Fundamental investing
