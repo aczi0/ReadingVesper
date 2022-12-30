@@ -4,6 +4,10 @@ auto_deploy: false
 admin_path: ''
 webhook_url: 
 sections:
+- type: document
+  path: https://github.com/aczi0/alexclarizio_blog/blob/master/config.toml
+  label: Config
+  match: "**/*"
 - type: directory
   path: content
   label: Pages
