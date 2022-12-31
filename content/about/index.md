@@ -1,10 +1,11 @@
 ---
 title: About
-date: 2020-08-26 17:51:42
+date: 2020-08-26T17:51:42.000+00:00
+
 ---
 ## Hi! I'm Alex,
 
-I'm a junior industrial engineer that writes short articles on different personal reflections related to general science, operations research, artificial intelligence, ethics, technology, society, art, finance and sometimes on personal insights *au goût du jour*.
+I'm an industrial engineer and operations researcher that writes short articles on different personal reflections related to general science, mathematics, artificial intelligence, ethics, technology, society, art and sometimes on personal insights _au goût du jour_.
 
 I built this website without the goal to publish it - to solely write for my own enjoyment and build a knowledge base for my children to look up some day. I recently decided to publish it thinking maybe if I can entertain some people with my articles then why not.
 
