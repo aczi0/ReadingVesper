@@ -1,3 +1,6 @@
++++
+
++++
 <!DOCTYPE html>
 <html>
 {{ partial "header.html" . }}
@@ -9,7 +12,7 @@
 		{{ if isset .Data "Term" }}
 			<h1>Entries tagged - "{{ .Data.Term }}"</h1>
 		{{ else }}
-			<h2 class="page-title">Writings</h2>
+			<h2 class="page-title">Content</h2>
 		{{ end }}
 
 		{{ with .Content }}{{ . }}{{ end }}

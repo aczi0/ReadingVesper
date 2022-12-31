@@ -7,7 +7,6 @@ sections:
 - type: document
   path: layouts/_default/list.html
   label: list
-  match: "**/*"
 - type: directory
   path: content/projects
   label: Projects
