@@ -5,9 +5,8 @@ admin_path: ''
 webhook_url: 
 sections:
 - type: document
-  path: content/projects/**/*
+  path: content/Projects/**/*
   label: Projects
-  match: "**/*"
 - type: document
   path: config.toml
   label: Config
