@@ -11,7 +11,7 @@ theme = "ezhil"
 title = "Alex Clarizio's Homepage"
 [[menu.main]]
 name = "Projects"
-url = "/projects"
+url = "/posts/projects"
 weight = 5
 [[menu.main]]
 name = "Tags"
