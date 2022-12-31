@@ -28,7 +28,7 @@ weight = 4
 [params]
 featherIconsCDN = true
 mode = "dark"
-subtitle = "*Writings for the curious minds from an ongoing lifelong learning journey.*"
+subtitle = "*Writings for the curious minds.*"
 [[params.social]]
 icon = "rss"
 name = "RSS"
