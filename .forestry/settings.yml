@@ -4,9 +4,6 @@ auto_deploy: false
 admin_path: ''
 webhook_url: 
 sections:
-- type: document
-  path: layouts/_default/list.html
-  label: list
 - type: directory
   path: content/projects
   label: Projects
