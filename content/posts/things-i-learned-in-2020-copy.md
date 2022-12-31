@@ -1,6 +1,5 @@
 +++
 date = 2022-12-31T05:00:00Z
-draft = true
 title = "2022 Collections"
 
 +++
