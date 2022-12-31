@@ -16,9 +16,7 @@ The CSA held a competition for the best sattelite photographies of the earth. Th
 
 [The word originated](https://www.bbc.com/news/world-44981013) in the late 19th century as a satirical jab at teachers who owned books but didn’t read them."
 
-## A collection of geometric shapes.
-
-[https://www.ics.uci.edu/\~eppstein/junkyard/topic.html](https://www.ics.uci.edu/\~eppstein/junkyard/topic.html "https://www.ics.uci.edu/~eppstein/junkyard/topic.html")
+## [A collection of geometric shapes.](https://www.ics.uci.edu/\~eppstein/junkyard/topic.html)
 
 ![triangulated cube](https://www.ics.uci.edu/\~eppstein/projects/tetra/thumbnail.gif =102x99)![sliced hyperspace star polytope](https://www.ics.uci.edu/\~eppstein/junkyard/hyperstar.png =161x153)![Hecatohedron](https://www.ics.uci.edu/\~eppstein/junkyard/hecatohedron.gif =273x271)
 
