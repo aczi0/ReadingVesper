@@ -10,21 +10,25 @@ summaryLength = 10
 theme = "ezhil"
 title = "Alex Clarizio's Homepage"
 [[menu.main]]
-name = "Home"
-url = "/"
-weight = 1
+name = "Projects"
+url = "https://www.alexclarizio.com/projects/"
+weight = 5
 [[menu.main]]
-name = "Writings"
-url = "/posts"
-weight = 2
+name = "Tags"
+url = "/tags"
+weight = 4
 [[menu.main]]
 name = "About"
 url = "/about"
 weight = 3
 [[menu.main]]
-name = "Tags"
-url = "/tags"
-weight = 4
+name = "Writings"
+url = "/posts"
+weight = 2
+[[menu.main]]
+name = "Home"
+url = "/"
+weight = 1
 [params]
 featherIconsCDN = true
 mode = "dark"
