@@ -4,11 +4,6 @@ auto_deploy: false
 admin_path: ''
 webhook_url: 
 sections:
-- type: directory
-  path: Projects
-  label: Projects
-  create: all
-  match: "**/*"
 - type: document
   path: config.toml
   label: Config
