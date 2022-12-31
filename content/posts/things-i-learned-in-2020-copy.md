@@ -1,45 +1,51 @@
 +++
-date = 2020-09-20T12:22:53Z
+date = 2022-12-31T05:00:00Z
 draft = true
-title = "Things I learned in 2020-(copy)"
+title = "2022 Collections"
 
 +++
-Here's a collection of interesting things I learned in 2020:
+Here's my collection of things I enjoyed learning or reading about in 2022:
 
-# Compensation
-The determining factor in labor compensation is substitutability. An example would be a neurosurgeon.
+## [The Canadian Space Agency's Satellite Art Competition.](https://www.asc-csa.gc.ca/eng/satellites/earth-observation/satelliteart/default.asp)
 
-# Innovation  
+The CSA held a competition for the best sattelite photographies of the earth. The top contenders can be found here:
 
-I realized that some of the biggest innovations in human history were made by trying to mimic human processes. 
-+ Mass production - was enable by interchangeability of parts. This also happens to be how our cells operate. Take a person with good eye sight that becomes blind after an accident. After a moment, cells reserved for sight will reorganize and reprogram themselves to take a new role, that is probably more demanding because of the lack of sight, such as hearing.
-+ Artificial Intelligence - by understanding how our brains operate, scientists and engineers were able to reproduce the basic learning processes, namely giving birth to (digital) neural networks.
-+ Division of labor - In history, humans were able to grow intellectually by first establishing a safe environment to thrive in other domains than hunting and fighting. By establishing long term encampments, they were able to divide duties and hence specializing themselves in different spheres, faster than if everyone were doing the same thing. Unsurpriszingly, our cells happen to do the same thing. By having cells organized and specialized in different spheres, the body can do abstraction of basic processes and focus on more demanding tasks, such as long-term planning.
+## [Surrounding ourselves with unread books.](https://bigthink.com/neuropsych/do-i-own-too-many-books/#Echobox=1659313490)
 
-# Efficiency vs Productivity
+"_Tsundoku_ is the Japanese word for the stack(s) of books you’ve purchased but haven’t read. [Its morphology](https://bigthink.com/culture-religion/7-best-japanese-words?rebelltitem=6#rebelltitem6) combines _tsunde-oku_ (letting things pile up) and _dukosho_ (reading books).
 
-Those two words are often interchanged in the context of output. Here's a proper definition:  
-Efficiency produces the same output with less input.  
-Productivity produces more output with the same input.  
-To make a process more efficient, you figure out how to get some X output while using as little input as possible.  
-To make a process more productive, you figure out how given some Y input, you can maximize your output.
+[The word originated](https://www.bbc.com/news/world-44981013) in the late 19th century as a satirical jab at teachers who owned books but didn’t read them."
 
-# On Businesses
+## A collection of geometric shapes.
 
-Business is 4 equal parts; product, makreting, collecting money and timing/luck. They are all critical and very often, not in your ocntrol.
+[https://www.ics.uci.edu/\~eppstein/junkyard/topic.html](https://www.ics.uci.edu/\~eppstein/junkyard/topic.html "https://www.ics.uci.edu/~eppstein/junkyard/topic.html")
 
-# This Paul Graham's quote for his children
+![triangulated cube](https://www.ics.uci.edu/\~eppstein/projects/tetra/thumbnail.gif =102x99)![sliced hyperspace star polytope](https://www.ics.uci.edu/\~eppstein/junkyard/hyperstar.png =161x153)![Hecatohedron](https://www.ics.uci.edu/\~eppstein/junkyard/hecatohedron.gif =273x271)
 
-The apparently random collection of things you learn when you're young makes you into a sort of key. Then you have to find the lock it matches. But that's not as hard as it sounds, because the matching lock is usually nearby.
+## [This very interesting Mandelbrot Set Map](https://www.mandelmap.com/)
 
-# Types of writings
+![A beautiful poster of the Mandelbrot set fractal, that you will enjoy for years to come.](https://images.squarespace-cdn.com/content/v1/56b990b659827eedd59aeb7a/1470413508413-NF9SATN25UD2GQOUHNL9/Mandelbrot_Poster.jpg?format=1000w)
 
-From Devon Zuegel: Writing falls into three buckets: (1) trivial things that everybody knows, (2) things that everybody knows, but nobody around you knows, and you have a unique perspective on, and (3) stuff that nobody knows so you have to do tons of research.
+## [A collection of the top queries from ChatGPT.](https://www.learngpt.com/)
 
-# The Genius of Unrecognized Simplicities
+You have probably heard about the [new AI in town]((https://hbr.org/2022/12/chatgpt-is-a-tipping-point-for-ai).
 
-Most geniuses - especially those who lead others - prosper not by deconstructing intricate complexities, but by exploiting unrecognized simplicities - Andy Benoit
+Now here is a collection of example uses from around the world showing how creative some people can be with their interactions with this new tool.
 
-# On Optimization
+## [Some great advice for young scientists and curious people in general.](https://fs.blog/advice-for-young-scientists/)
 
-Optimizing your solution ensures someone else can't come into your industry, get the same suppliers and contract terms, and beat you.
+_“There is no certain way of telling in advance if the daydreams of a life dedicated to the pursuit of truth will carry a novice through the frustration of seeing experiments fail and of making the dismaying discovery that some of one’s favourite ideas are groundless.”_
+
+## [Wikipedia's list of emerging technologies](https://en.m.wikipedia.org/wiki/List_of_emerging_technologies "wiki")
+
+Interesting to know that some people are working on an [electronic nose](https://en.m.wikipedia.org/wiki/Electronic_nose "Electronic Nose")
+
+## [The Gervais Principle.](https://www.ribbonfarm.com/2009/10/07/the-gervais-principle-or-the-office-according-to-the-office/ "GervaisPrinciple")
+
+_"Sociopaths, in their own best interests, knowingly promote over-performing losers into middle-management, groom under-performing losers into sociopaths, and leave the average bare-minimum-effort losers to fend for themselves."_
+
+![hughMcLeodCompanyHierarchy](https://ribbonfarm.wpenginepowered.com/wp-content/uploads/2009/10/hughMcLeodCompanyHierarchy.jpg "hughMcLeodCompanyHierarchy" =400x218)
+
+## [Penrose Tiling.](https://en.m.wikipedia.org/wiki/Penrose_tiling "PenTiling")
+
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Penrose_Tiling_%28Rhombi%29.svg/220px-Penrose_Tiling_%28Rhombi%29.svg.png =220x220)![](https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/RegularRhombs.svg/170px-RegularRhombs.svg.png =170x170)![](https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Penrose_Tiling_%28P1%29.svg/220px-Penrose_Tiling_%28P1%29.svg.png =220x220)
