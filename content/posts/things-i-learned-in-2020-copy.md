@@ -17,7 +17,7 @@ The CSA held a competition for the best satellite photographs of the earth. The 
 
 ## [A collection of geometric shapes.](https://www.ics.uci.edu/\~eppstein/junkyard/topic.html)
 
-![](https://www.ics.uci.edu/\~eppstein/junkyard/fractal-circles.gif =202x203)![Hecatohedron](https://www.ics.uci.edu/\~eppstein/junkyard/hecatohedron.gif =273x271)
+![](/uploads/fractal-circles.gif)![](/uploads/hecatohedron.gif)
 
 ## [This very interesting Mandelbrot Set Map](https://www.mandelmap.com/)
 
@@ -41,8 +41,8 @@ Interesting to know that some people are working on an [electronic nose](https:/
 
 _"Sociopaths, in their own best interests, knowingly promote over-performing losers into middle-management, groom under-performing losers into sociopaths, and leave the average bare-minimum-effort losers to fend for themselves."_
 
-![hughMcLeodCompanyHierarchy](https://ribbonfarm.wpenginepowered.com/wp-content/uploads/2009/10/hughMcLeodCompanyHierarchy.jpg "hughMcLeodCompanyHierarchy" =400x218)
+![](/uploads/hughmcleodcompanyhierarchy.jpg)
 
 ## [Penrose Tiling.](https://en.m.wikipedia.org/wiki/Penrose_tiling "PenTiling")
 
-![](https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Penrose_Tiling_%28Rhombi%29.svg/220px-Penrose_Tiling_%28Rhombi%29.svg.png =220x220)![](https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/RegularRhombs.svg/170px-RegularRhombs.svg.png =170x170)![](https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Penrose_Tiling_%28P1%29.svg/220px-Penrose_Tiling_%28P1%29.svg.png =220x220)
+![](/uploads/1024px-penrose_tiling_-p1-svg.png)![](/uploads/penrose_p3_deflations.gif)
