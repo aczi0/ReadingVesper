@@ -17,7 +17,7 @@ The CSA held a competition for the best satellite photographs of the earth. The 
 
 ## [A collection of geometric shapes.](https://www.ics.uci.edu/\~eppstein/junkyard/topic.html)
 
-![triangulated cube](https://www.ics.uci.edu/\~eppstein/projects/tetra/thumbnail.gif "cube" =102x99)![sliced hyperspace star polytope](https://www.ics.uci.edu/\~eppstein/junkyard/hyperstar.png =161x153)![Hecatohedron](https://www.ics.uci.edu/\~eppstein/junkyard/hecatohedron.gif =273x271)
+![](https://www.ics.uci.edu/\~eppstein/junkyard/fractal-circles.gif =202x203)![Hecatohedron](https://www.ics.uci.edu/\~eppstein/junkyard/hecatohedron.gif =273x271)
 
 ## [This very interesting Mandelbrot Set Map](https://www.mandelmap.com/)
 
