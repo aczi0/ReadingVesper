@@ -7,7 +7,7 @@ Here's my collection of things I enjoyed learning or reading about in 2022:
 
 ## [The Canadian Space Agency's Satellite Art Competition.](https://www.asc-csa.gc.ca/eng/satellites/earth-observation/satelliteart/default.asp)
 
-The CSA held a competition for the best sattelite photographies of the earth. The top contenders can be found here:
+The CSA held a competition for the best satellite photographs of the earth. The top contenders can be found by clicking the title link.
 
 ## [Surrounding ourselves with unread books.](https://bigthink.com/neuropsych/do-i-own-too-many-books/#Echobox=1659313490)
 
