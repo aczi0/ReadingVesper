@@ -71,25 +71,3 @@ Here is a model that represents a basic schedule generator of 5 nurses with 7 sh
         
         if name == 'main':
       main()
-
-  or 
-
-> print('Optimal solution found.')
->
->   for i in range(num_nursed):
->
->     for j in range(num_shifts):
->
->       if x\[i, j\].solution_value() > 0:
->
->         print('Nurse', i, 'works shift', j)
->
-> else:
->
->   print('Problem could not be solved.')
->
->   
->
->   if name == 'main':
->
-> main()
