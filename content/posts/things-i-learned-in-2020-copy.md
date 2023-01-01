@@ -25,7 +25,7 @@ The CSA held a competition for the best satellite photographs of the earth. The 
 
 ## [A collection of the top queries from ChatGPT.](https://www.learngpt.com/)
 
-You have probably heard about the \[new AI in town\]((https://hbr.org/2022/12/chatgpt-is-a-tipping-point-for-ai).
+You have probably heard about the[ new AI in town](https://hbr.org/2022/12/chatgpt-is-a-tipping-point-for-ai). "new AI in town").
 
 Now here is a collection of example uses from around the world showing how creative some people can be with their interactions with this new tool.
 
@@ -35,7 +35,7 @@ _“There is no certain way of telling in advance if the daydreams of a life ded
 
 ## [Wikipedia's list of emerging technologies](https://en.m.wikipedia.org/wiki/List_of_emerging_technologies "wiki")
 
-Interesting to know that some people are working on an [electronic nose](https://en.m.wikipedia.org/wiki/Electronic_nose "Electronic Nose")
+Interesting to know that some people are working on an [electronic nose](https://en.m.wikipedia.org/wiki/Electronic_nose "Electronic Nose").
 
 ## [The Gervais Principle.](https://www.ribbonfarm.com/2009/10/07/the-gervais-principle-or-the-office-according-to-the-office/ "GervaisPrinciple")
 
