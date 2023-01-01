@@ -11,4 +11,4 @@ I built this website without the goal to publish it - to solely write for my own
 
 I am a firm believer that you can only be certain that you understand something if you can explain it clearly to a wide audience, and that the world is full of curious things awaiting to be (re)discovered and be inspired by. I hope I can provide some meaningful insights to at least half of the readers that stumble here and maybe spark a conversation or two.
 
-If you are curious about how I built this website, I wrote about it [here](./posts/aboutthiswebsite). In short, everything you see was designed using HTML/CSS and some JS, uting Hugo as a static website generator, Netlify as my host and github as my repository.
+If you are curious about how I built this website, I wrote about it [here](./posts/aboutthiswebsite). In short, everything you see was designed using HTML/CSS and some JS, using Hugo as a static website generator, Netlify as my host and Forestry as my CMS.
