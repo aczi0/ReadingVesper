@@ -45,4 +45,4 @@ _"Sociopaths, in their own best interests, knowingly promote over-performing los
 
 ## [Penrose Tiling.](https://en.m.wikipedia.org/wiki/Penrose_tiling "PenTiling")
 
-![](/uploads/1024px-penrose_tiling_-p1-svg.png)![](/uploads/penrose_p3_deflations.gif)
+![](/uploads/1024px-penrose_tiling_-p1-svg.png)
