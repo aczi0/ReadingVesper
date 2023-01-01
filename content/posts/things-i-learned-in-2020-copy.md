@@ -17,7 +17,7 @@ The CSA held a competition for the best sattelite photographies of the earth. Th
 
 ## [A collection of geometric shapes.](https://www.ics.uci.edu/\~eppstein/junkyard/topic.html)
 
-![triangulated cube](https://www.ics.uci.edu/\~eppstein/projects/tetra/thumbnail.gif =102x99)![sliced hyperspace star polytope](https://www.ics.uci.edu/\~eppstein/junkyard/hyperstar.png =161x153)![Hecatohedron](https://www.ics.uci.edu/\~eppstein/junkyard/hecatohedron.gif =273x271)
+![triangulated cube](https://www.ics.uci.edu/\~eppstein/projects/tetra/thumbnail.gif "cube" =102x99)![sliced hyperspace star polytope](https://www.ics.uci.edu/\~eppstein/junkyard/hyperstar.png =161x153)![Hecatohedron](https://www.ics.uci.edu/\~eppstein/junkyard/hecatohedron.gif =273x271)
 
 ## [This very interesting Mandelbrot Set Map](https://www.mandelmap.com/)
 
@@ -25,7 +25,7 @@ The CSA held a competition for the best sattelite photographies of the earth. Th
 
 ## [A collection of the top queries from ChatGPT.](https://www.learngpt.com/)
 
-You have probably heard about the [new AI in town]((https://hbr.org/2022/12/chatgpt-is-a-tipping-point-for-ai).
+You have probably heard about the \[new AI in town\]((https://hbr.org/2022/12/chatgpt-is-a-tipping-point-for-ai).
 
 Now here is a collection of example uses from around the world showing how creative some people can be with their interactions with this new tool.
 
