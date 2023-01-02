@@ -13,4 +13,17 @@ I am a firm believer that you can only be certain that you understand something 
 
 I also run a startup, [Kaster Technologies](kaster.ca "kaster"), with the goal to increase global access to medicine and vaccines through corporate, academic and government partnership and the application of research grade AI.
 
+Here's a quick list of the tools I use to run my startup and what not:
+
+* Notion
+* Netlify
+* Forestry
+* Github
+* VS Code
+* Python (Google OR-Tools)
+* Airtable
+* Appsmith
+* Google Cloud Functions
+* ChatGPT
+
 If you are curious about how I built this website, I wrote about it [here](./posts/aboutthiswebsite). In short, everything you see was designed using HTML/CSS and some JS, using Hugo as a static website generator, Netlify as my host and Forestry as my CMS.
