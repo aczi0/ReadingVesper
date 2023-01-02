@@ -5,7 +5,7 @@ date: 2020-08-26T17:51:42.000+00:00
 ---
 ## **Hi! I'm Alex,**
 
-## ![](/uploads/screenshot-2022-05-26-115327.png=200x200)
+## ![](/uploads/screenshot-2022-05-26-115327.png =200x200)
 
 I'm an industrial engineer and operations researcher that writes short articles on different personal reflections related to general science, mathematics, artificial intelligence, ethics, technology, society, art and sometimes on personal insights _au goût du jour_.
 
