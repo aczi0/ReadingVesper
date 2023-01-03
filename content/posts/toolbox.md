@@ -1,6 +1,8 @@
 +++
 date = 2023-01-02T05:00:00Z
 title = "Toolbox"
+[menu.main]
+weight = 6
 
 +++
 Throughout my professional career, by running a startup and by pursuing research projects, I stumble upon a lot of useful tools that I constantly update and categorized per function here:
