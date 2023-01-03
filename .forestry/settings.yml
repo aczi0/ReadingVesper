@@ -4,9 +4,6 @@ auto_deploy: false
 admin_path: ''
 webhook_url: 
 sections:
-- type: document
-  path: content/posts/toolbox.md
-  label: Toolbox
 - type: directory
   path: content/projects
   label: Projects
