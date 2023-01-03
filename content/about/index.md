@@ -39,7 +39,6 @@ By running a startup and pursuing my research project, I stumble upon a lot of u
   * [Google OR-Tools](https://developers.google.com/optimization "google or-tools") - "OR-Tools is an open source software suite for optimization, tuned for tackling the world's toughest problems in vehicle routing, flows, integer and linear programming, and constraint programming."
   * [Pandas](https://pandas.pydata.org/ "Pandas") - "_pandas_ is a fast, powerful, flexible and easy to use open source data analysis and manipulation tool, built on top of the Python programming language."
   * [Numpy](https://numpy.org/ "Numpy") - "NumPy is a library for the Python programming language, adding support for large, multi-dimensional arrays and matrices, along with a large collection of high-level mathematical functions to operate on these arrays."
-  * Scikit-Learn
 
 ### **Prototyping**
 
