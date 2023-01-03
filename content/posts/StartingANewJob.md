@@ -1,15 +1,15 @@
 ---
-title: "Starting A New Job"
-date: 2020-09-20T08:46:16-04:00
-draft: false
+title: Starting A New Job
+date: 2020-09-20T08:46:16.000-04:00
 tags:
-    - profession, starting a new job
+- profession, starting a new job
 categories:
 - profession
 keywords:
-    - profession, starting a new job
----
+- profession, starting a new job
+draft: true
 
+---
 A small insight on the approach I take for starting a new job.  
 
 Beforehand, learn as much as you can about the business domain with your own research.  Same thing goes for its industry. Who are the winners? Why? Who is on the executive team? What are their professional track? Education? Accomplishments? Is the domain exploding, stagnating, degrading? Why?
@@ -30,4 +30,4 @@ Figure out what is expected of you, and how feedback is given. Understand how is
 
 Always carry a short, medium and long term plan in head, regarding the time at this company and for your professional track, and never lose sight of this.
 
-Also, be genuine. 
+Also, be genuine.
