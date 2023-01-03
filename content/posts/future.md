@@ -7,6 +7,7 @@ categories:
 - technology
 keywords:
 - technology, future, innovation
+draft: true
 
 ---
 After reading Arthur C. Clark's Profile of the Future, written in 1962, I was inspired to think about how I think the near future (25 years range) will look like. I am no expert in innovation prediction, but I do read a lot and love meself some good science-fiction.
