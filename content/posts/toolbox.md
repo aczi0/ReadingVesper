@@ -54,6 +54,12 @@ Some simple tools that can be used to visualize processes and interactions among
 * Visio
 * VSM
 
+### **Operations Research**
+
+OR is a subfield of computer science, business analytics, industrial engineering and economics. It is a powerful mathematical method that helps model the interaction between people, systems and information in order to help optimize certain decisions in order to attain the best outcome possible.
+
+I have created [a list of common problems](https://www.alexclarizio.com/projects/ "list of OR problems") that can be solved with OR, along with a few modelling tricks that can save many hours of research.
+
 ### **Website Management**
 
 * [Netlify](www.netlify.com "Netlify") - "Netlify is a remote-first cloud computing company that offers a development platform that includes build, deploy, and serverless backend services for web applications and dynamic websites
