@@ -1,6 +1,7 @@
 ---
 title: About
 date: 2020-08-26T17:51:42.000+00:00
+draft: true
 
 ---
 # **Hi! I'm Alex,**
