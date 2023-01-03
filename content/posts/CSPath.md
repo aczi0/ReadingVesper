@@ -1,15 +1,14 @@
 ---
-title: "Learning to code"
-date: 2020-10-22T08:26:10-04:00
-draft: false
+title: Learning to code
+date: 2020-10-22T08:26:10.000-04:00
 tags:
-    - learning, computer science, web development, coding, programming
+- learning, computer science, web development, coding, programming
 categories:
 - Learning
 keywords:
-    - learning, computer science, web development, coding, programming
----
+- learning, computer science, web development, coding, programming
 
+---
 If you've done a few computer science tutorials or bootcamp, you've probably heard of (or lived) *tutorial hell*, where each course you take seem to add something new but does not fill the gap between theory and application. I was there, and had a hard time to get out. But I figured out a way to do it and thought i could share my thought processes and guides here.
 
 My initial goal was to learn web development so I could build an application that uses operations research abstracted with a nice UI for people to use.
