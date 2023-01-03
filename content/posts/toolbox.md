@@ -5,7 +5,7 @@ title = "Toolbox"
 weight = 6
 
 +++
-Throughout my professional career, by running a startup and by pursuing research projects, I stumble upon a lot of useful tools that I constantly update and categorized per function here:
+This is a collection of tools that I try to keep up to date with regarding industrial engineering, scientific research, operations research, programming and general productivity. 
 
 ### **Knowledge Management**
 
@@ -15,6 +15,44 @@ Throughout my professional career, by running a startup and by pursuing research
 
 * [Zotero ](https://www.zotero.org/ "Zotero")- "Zotero is a free and open-source reference management software to manage bibliographic data and related research materials, such as PDF files."
 * [Overleaf](https://www.overleaf.com/ "Overleaf") - "Overleaf is a collaborative cloud-based LaTeX editor used for writing, editing and publishing scientific documents."
+
+### **Industrial Engineering**
+
+From Wikipedia: "Industrial engineering is an engineering profession that is concerned with the optimization of complex [processes](https://en.wikipedia.org/wiki/Process_(engineering) "Process (engineering)"), [systems](https://en.wikipedia.org/wiki/System "System"), or [organizations](https://en.wikipedia.org/wiki/Organizations "Organizations") by developing, improving and implementing integrated systems of people, money, knowledge, information and equipment."
+
+The field uses a collection of tools and methods to develop these optimization strategies, and lean manufacturing is at the forefront of our profession. Throughout the years, lean thinking was applied to the service industry, liberating a multitude of hidden efficiencies and productivity throughout most if not all industries: healthcare, airlines, auctions houses, sporting events, marketing and advertisement, workforce management etc...
+
+Here is a collection of methods for process improvement that I've used throughout the years to enable such benefits:
+
+**Lean Thinking**
+
+Toyota was one of the first company to fully integrate the "lean approach" to their operations and it can be summarized as follows. (It is important to know that this was written with a manufacturing context in mind, but is fully transferable to the service industry):
+
+1. All work shall be highly specified as to content, sequence, timing, and outcome.
+2. Every customer-supplier connection must be direct, and there must be an unambiguous yes or no way to send requests and receive responses.
+3. The pathway for every product and service must be simple and direct.
+4. Any improvement must be made in accordance with the [scientific method](https://en.wikipedia.org/wiki/Scientific_method "Scientific method"), under the guidance of a teacher, at the lowest possible level in the organization.
+
+The key principles of the lean process can be described as: 
+
+1. The Value Stream: Identify the [value stream](https://en.wikipedia.org/wiki/Value-stream_mapping "Value-stream mapping") for each product providing that value and challenge all of the wasted steps (generally nine out of ten) currently necessary to provide it
+2. Flow: Make the product flow continuously through the remaining value-added steps
+3. Pull: Introduce pull between all steps where continuous flow is possible
+4. Perfection: Manage toward perfection so that the number of steps and the amount of time and information needed to serve the customer continually falls
+
+Some popular methods that are applicable to the manufacturing and service industry would be:
+
+* One piece flow
+* The 8 MUDAs
+* Kaizen
+* VSM
+* Setup reduction
+* Push vs Pull
+
+Some simple tools that can be used to visualize processes and interactions among people, systems and information
+
+* Visio
+* VSM
 
 ### **Website Management**
 
