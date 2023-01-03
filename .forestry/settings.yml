@@ -7,7 +7,6 @@ sections:
 - type: document
   path: content/posts/toolbox.md
   label: Toolbox
-  match: "**/*"
 - type: directory
   path: content/projects
   label: Projects

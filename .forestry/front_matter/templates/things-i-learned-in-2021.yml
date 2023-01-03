@@ -10,6 +10,7 @@ fields:
   label: date
 pages:
 - content/posts/toolbox.md
+- content/posts/toolbox.md
 - content/projects/human-resource-planning.md
 - content/projects/new-test.md
 - content/projects/the-2d-bin-packing-problem.md
